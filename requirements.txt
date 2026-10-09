@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+opencv-python
+mediapipe
+deepface
+SpeechRecognition
+langchain
+google-generativeai
+python-dotenv
